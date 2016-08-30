@@ -4,7 +4,7 @@
   "version": "1.6.0",
   "description": "Convert markdown to pdf, png or jpeg on the hit of a shortcut.",
   "activationCommands": {
-    "atom-workspace": "markdown-pdf:convert"
+    "atom-workspace": "mr-markdown-pdf:convert"
   },
   "repository": "https://github.com/MrDallOca/markdown-pdf",
   "license": "MIT",
