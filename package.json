@@ -1,12 +1,12 @@
 {
   "name": "mr-markdown-pdf",
   "main": "./lib/markdown-pdf",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Convert markdown to pdf, png or jpeg on the hit of a shortcut.",
   "activationCommands": {
     "atom-workspace": "mr-markdown-pdf:convert"
   },
-  "repository": "https://github.com/MrDallOca/markdown-pdf",
+  "repository": "https://github.com/MrDallOca/markdown-pdf.git",
   "license": "MIT",
   "author": "Travis Jacobs (github.com/travs)",
   "engines": {
