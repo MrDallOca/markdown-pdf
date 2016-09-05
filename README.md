@@ -1,10 +1,16 @@
-## [Markdown to PDF](https://atom.io/packages/markdown-pdf)
+## [Markdown to PDF](https://github.com/MrDallOca/markdown-pdf)
 Convert markdown-formatted documents to pdf, png or jpeg files without ever leaving Atom.
 
 ## Forked diffs
-Switch code highlighting between your downloaded syntax themes in the package's settings.
+**Switch code highlighting** between your downloaded syntax themes in the package's settings.
 
 + markdown-preview-plus bug corrected
+
+Don't forget to leave a star!
+
+# 🌟
+
+---
 
 ### Usage
 Just focus the window containing your markdown file and use the `convert` command.
