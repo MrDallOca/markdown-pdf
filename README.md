@@ -6,9 +6,7 @@ Convert markdown-formatted documents to pdf, png or jpeg files without ever leav
 
 + markdown-preview-plus bug corrected
 
-Don't forget to leave a star!
-
-# 🌟
+Don't forget to leave a 🌟!
 
 ---
 
